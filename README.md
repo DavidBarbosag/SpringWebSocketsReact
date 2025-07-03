@@ -45,6 +45,10 @@
 4. Create an html index in this location: **/src/main/resources/static**
 
 5. Run the class we just created, and the server should start executing.
-6. Verify the execution accessing to> **localhost:8080/index.html**
+6. Verify the execution accessing to: **localhost:8080/status**
 
+    ![status](assets/status.png)
+7. Verify if the server is delivering the web statics in: **localhost:8080/index.html**
+
+   ![index](assets/index.png)
 
